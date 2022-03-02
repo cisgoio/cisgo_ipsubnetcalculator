@@ -1,4 +1,4 @@
-# cisgoio_ipsubnetcalculator
+# cisgo_ipsubnetcalculator
 
 !== GOAL: I will be combining into a Fyne.Gui.Subnetting Calculator similar to our 
     well known Solar-Winds Subnet-Calculator and extending for REST-Api applications 
